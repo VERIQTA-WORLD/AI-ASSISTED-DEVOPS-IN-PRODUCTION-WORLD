@@ -1,0 +1,339 @@
+VERIQTA RESTRICTED EDUCATIONAL LICENSE
+Version 1.0
+
+Copyright (c) 2026 Ann Felix.
+All rights reserved.
+
+Repository:
+AI-ASSISTED-DEVOPS-IN-PRODUCTION-WORLD
+
+https://github.com/VERIQTA-WORLD/AI-ASSISTED-DEVOPS-IN-PRODUCTION-WORLD
+
+License identifier:
+LicenseRef-VERIQTA-Custom
+
+
+1. SCOPE AND OWNERSHIP
+
+This license applies to original materials in this repository
+for which Ann Felix holds copyright or has authority to grant
+the permissions stated below.
+
+Covered materials include original documentation, learning
+notes, exercises, case files, prompts, examples, source code,
+scripts, templates, diagrams, graphics, and other educational
+assets, unless a file expressly states different terms.
+
+Ann Felix is the Licensor.
+
+No ownership is transferred. Rights not expressly granted
+are reserved.
+
+Public availability does not make the materials public
+domain or grant an open-source license.
+
+
+2. LIMITED PERSONAL STUDY PERMISSION
+
+Subject to this license, you may:
+
+a. Read and study the materials for your own personal,
+   noncommercial learning.
+
+b. Download and retain a private copy for that purpose.
+
+c. Execute supplied examples in an isolated environment
+   that you own or are authorized to use, solely for
+   personal, noncommercial learning.
+
+d. Make private modifications necessary to complete the
+   exercises or understand the examples.
+
+e. Link to the original repository without reproducing
+   the materials.
+
+Private copies and modifications must retain applicable
+copyright notices, attribution, and this license.
+
+This permission is nonexclusive, nontransferable, and does
+not include a right to sublicense.
+
+Personal learning permission does not authorize publication
+of copied exercises, solutions, adapted code, or other
+covered materials in a public portfolio.
+
+
+3. USES REQUIRING PRIOR WRITTEN PERMISSION
+
+Except as permitted by Section 2, applicable law, separate
+third-party licenses, or applicable hosting-platform rights,
+you must obtain the Licensor's prior written permission to:
+
+a. Reproduce, redistribute, republish, mirror, upload,
+   broadcast, or otherwise make covered materials
+   available to others.
+
+b. Publish modified, translated, summarized, reformatted,
+   or otherwise adapted versions of covered materials.
+
+c. Incorporate covered materials into another repository,
+   website, application, publication, product, service,
+   course, handbook, or content library.
+
+d. Use covered materials for commercial purposes,
+   professional service delivery, client work, workplace
+   training, or organizational operations.
+
+e. Use covered materials to teach, train, assess, or
+   provide educational services to other people, whether
+   those services are paid or free.
+
+f. Sell, rent, sublicense, bundle, or monetize covered
+   materials or access to them.
+
+g. Use covered materials in advertising, sponsored
+   content, subscription products, certification
+   preparation services, or paid communities.
+
+h. Distribute covered materials through messaging groups,
+   file-sharing services, learning platforms, or social
+   media.
+
+Attribution, nonprofit status, educational intent, or
+modification does not independently authorize these uses.
+
+
+4. AI AND MACHINE LEARNING RESTRICTIONS
+
+Without prior written permission, you may not use covered
+materials, in whole or in part, to:
+
+a. Train, pretrain, fine-tune, distill, or otherwise
+   develop or improve an artificial intelligence or
+   machine learning model.
+
+b. Create or distribute training datasets, evaluation
+   datasets, benchmark collections, or synthetic data
+   derived from covered materials.
+
+c. Populate a shared or commercial retrieval system,
+   vector database, knowledge service, or AI content
+   library.
+
+d. Provide covered materials as persistent knowledge
+   for a chatbot, assistant, agent, or automated
+   educational service.
+
+e. Generate substitutes for the repository's lessons,
+   exercises, books, diagrams, or other publications
+   for redistribution or commercial use.
+
+f. Upload covered materials to a third-party AI service,
+   including through prompts, attachments, retrieval
+   connectors, or automated ingestion.
+
+The personal study permission permits private analysis
+using a locally operated model only when:
+
+i. The materials remain private and are not transmitted
+   to a third-party service.
+
+ii. The activity does not train or improve a model.
+
+iii. Resulting outputs containing or adapting covered
+     materials remain private.
+
+iv. All other conditions of this license are followed.
+
+These restrictions apply only to covered materials.
+They do not restrict independently authored prompts,
+original user work, or materials governed by separate
+licenses.
+
+
+5. ATTRIBUTION AND BRAND RIGHTS
+
+Do not remove or alter copyright notices, source credits,
+license notices, or provenance information in covered
+materials.
+
+Do not claim authorship of covered materials or present
+them as your own original work.
+
+This license grants no trademark rights and no permission
+to use the VERIQTA name, logo, or other brand assets as
+your own branding.
+
+Do not imply sponsorship, certification, partnership,
+approval, or endorsement by Ann Felix or VERIQTA.
+
+Accurate references to the repository and its author do
+not themselves grant permission to reproduce its content.
+
+
+6. CITATION
+
+You may cite the repository and link to it.
+
+Where relevant, use the metadata in CITATION.cff.
+
+Citation and attribution do not replace permission for
+uses restricted by this license.
+
+
+7. THIRD-PARTY MATERIALS
+
+Third-party code, logos, icons, quotations, documentation
+excerpts, and other assets may be governed by separate
+licenses or usage terms.
+
+This license does not claim ownership of third-party
+materials, restrict rights granted by their owners, or
+grant rights the Licensor does not possess.
+
+Consult file-level notices, attribution records, and
+original sources before using third-party materials.
+
+Where separate terms apply to an identified third-party
+asset, those terms govern that asset.
+
+
+8. GITHUB AND OTHER HOSTING PLATFORMS
+
+Nothing in this license is intended to withdraw rights
+that the Licensor has separately granted under applicable
+hosting-platform terms.
+
+For a public GitHub repository, this includes rights
+granted through GitHub's applicable terms and functionality,
+including viewing and forking within the service.
+
+Those platform rights do not themselves grant additional
+permission under this license for external redistribution,
+commercial use, or other restricted activities.
+
+
+9. CONTRIBUTIONS
+
+Submitting a contribution does not transfer its copyright
+to the Licensor.
+
+By intentionally submitting an original contribution for
+inclusion in this repository, you grant the Licensor a
+nonexclusive, worldwide, royalty-free license to use,
+reproduce, modify, publish, and distribute that contribution
+as part of this project under this license.
+
+This grant is perpetual and irrevocable to the extent
+permitted by applicable law.
+
+You must have authority to grant these rights and must
+identify any third-party material and its applicable terms.
+
+Do not submit confidential information, personal data,
+credentials, or material subject to incompatible terms.
+
+Different contribution terms require an express written
+agreement with the Licensor.
+
+
+10. PERMISSION REQUESTS
+
+Request permission through a private contact method
+published on the repository owner's official GitHub profile
+or through another verified official VERIQTA contact channel.
+
+Identify:
+
+a. The materials you want to use.
+
+b. The proposed use and audience.
+
+c. Whether the use is commercial or organizational.
+
+d. Where the materials will be distributed or hosted.
+
+e. Any proposed modifications.
+
+f. The intended duration of use.
+
+Permission is granted only through an express written
+authorization from the Licensor or an authorized
+representative.
+
+Silence, failure to respond, repository visibility,
+acceptance of a star or fork, or prior tolerance of a use
+does not constitute permission.
+
+
+11. TERMINATION
+
+Permissions granted by this license terminate automatically
+if you violate its conditions, to the extent permitted by
+applicable law.
+
+Upon termination, stop activities relying on this license
+and delete copies and adaptations held solely under its
+permissions.
+
+This requirement does not remove independent rights arising
+under applicable law, third-party licenses, or applicable
+hosting-platform terms.
+
+Reinstatement requires express written authorization.
+Termination does not waive claims arising from a violation.
+
+
+12. NO WARRANTY
+
+THE COVERED MATERIALS ARE PROVIDED "AS IS" AND "AS AVAILABLE,"
+WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, TO THE
+MAXIMUM EXTENT PERMITTED BY LAW.
+
+THE LICENSOR DISCLAIMS WARRANTIES INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, COMPLETENESS,
+NONINFRINGEMENT, AND SUITABILITY FOR PRODUCTION USE.
+
+EXAMPLES AND AI-ASSISTED WORKFLOWS MAY CONTAIN ERRORS OR BECOME
+OUTDATED. YOU ARE RESPONSIBLE FOR INDEPENDENT REVIEW, TESTING,
+AUTHORIZATION, SECURITY, AND COMPLIANCE BEFORE USE.
+
+THE MATERIALS DO NOT AUTHORIZE ACCESS TO OR MODIFICATION OF
+ANY THIRD-PARTY SYSTEM.
+
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR IS NOT
+LIABLE FOR LOSSES OR DAMAGES ARISING FROM USE OF OR INABILITY
+TO USE THE COVERED MATERIALS.
+
+THIS INCLUDES DATA LOSS, SECURITY INCIDENTS, SERVICE
+INTERRUPTION, INFRASTRUCTURE DAMAGE, FINANCIAL LOSS, AND OTHER
+DIRECT OR INDIRECT DAMAGES, SUBJECT TO ANY LIABILITY THAT
+APPLICABLE LAW DOES NOT ALLOW TO BE EXCLUDED.
+
+
+14. RIGHTS PRESERVED BY LAW
+
+Nothing in this license excludes rights or exceptions that
+applicable law does not permit the Licensor to restrict.
+
+This includes applicable fair use, fair dealing, statutory
+quotation rights, and other mandatory exceptions.
+
+The restrictions govern permissions granted by this license;
+they do not create ownership over facts, general ideas,
+engineering methods, or independently created work.
+
+
+15. SEVERABILITY AND SEPARATE AGREEMENTS
+
+If a provision is unenforceable, the remaining provisions
+continue to apply to the extent permitted by law.
+
+A separate written agreement may grant additional rights
+for a specified use. Such permission does not grant rights
+beyond the scope stated in that agreement.
+
+No additional license is implied.
