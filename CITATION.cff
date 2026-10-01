@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: >-
+  If you use or reference this repository in research,
+  teaching, presentations, or publications, please cite it
+  using this metadata. Citation does not grant permission
+  to reproduce, redistribute, or adapt the materials.
+type: software
+title: "AI-Assisted DevOps in Production World"
+authors:
+  - family-names: Felix
+    given-names: Ann
+abstract: >-
+  An engineering learning repository covering AI-assisted
+  DevOps, site reliability engineering, platform engineering,
+  and production operations. The collection emphasizes
+  problem definition, evidence collection, AI interaction,
+  engineer review, verification, implementation, testing,
+  and human control over production changes.
+repository-code: "https://github.com/VERIQTA-WORLD/AI-ASSISTED-DEVOPS-IN-PRODUCTION-WORLD"
+url: "https://github.com/VERIQTA-WORLD/AI-ASSISTED-DEVOPS-IN-PRODUCTION-WORLD"
+license: "LicenseRef-VERIQTA-Custom"
+license-url: "https://github.com/VERIQTA-WORLD/AI-ASSISTED-DEVOPS-IN-PRODUCTION-WORLD/blob/main/LICENSE"
+keywords:
+  - AI-assisted engineering
+  - DevOps
+  - Production engineering
+  - Site reliability engineering
+  - Platform engineering
+  - Infrastructure as code
+  - Linux
+  - Docker
+  - Kubernetes
+  - Terraform
+  - CI/CD
+  - Cloud engineering
+  - Observability
+  - Incident response
+  - Human oversight
