@@ -1,0 +1,30 @@
+[
+  [
+    "NIST Generative AI Profile",
+    "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+  ],
+  [
+    "OWASP prompt injection",
+    "https://genai.owasp.org/llmrisk/llm01-prompt-injection/"
+  ],
+  [
+    "OWASP excessive agency",
+    "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/"
+  ],
+  [
+    "Kubernetes documentation",
+    "https://kubernetes.io/docs/"
+  ],
+  [
+    "Terraform documentation",
+    "https://developer.hashicorp.com/terraform/docs"
+  ],
+  [
+    "Docker documentation",
+    "https://docs.docker.com/"
+  ],
+  [
+    "OpenTelemetry documentation",
+    "https://opentelemetry.io/docs/"
+  ]
+]

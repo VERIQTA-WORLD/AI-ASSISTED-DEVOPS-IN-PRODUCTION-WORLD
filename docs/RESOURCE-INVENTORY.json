@@ -1,0 +1,5 @@
+{
+  "Engineering-Artifacts": "Logs|Metrics|Traces|Manifests|Terraform-Plans|Configuration-Diffs|Pipeline-Logs|Query-Plans|Network-Captures|Architecture-Diagrams",
+  "AI-Workflow-Artifacts": "Context-Pack|Redacted-Evidence|Prompt|Response|Claim-Evidence-Map|Evaluation-Rubric|Model-Version-Record|Tool-Call-Record",
+  "Operational-Controls": "Change-Plan|Approval-Record|Verification-Report|Rollback-Plan|Stop-Conditions|Audit-Trail|Incident-Timeline|Postmortem"
+}

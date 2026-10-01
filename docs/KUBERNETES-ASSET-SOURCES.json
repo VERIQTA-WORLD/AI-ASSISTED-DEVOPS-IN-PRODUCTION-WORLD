@@ -1,0 +1,620 @@
+[
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/api.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/api.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/c-c-m.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/c-c-m.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/c-m.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/c-m.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/k-proxy.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/k-proxy.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/kubelet.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/kubelet.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/control_plane_components/labeled/sched.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/control_plane_components/labeled/sched.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/labeled/control-plane.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/labeled/control-plane.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/labeled/etcd.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/labeled/etcd.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/labeled/node.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/labeled/node.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/unlabeled/control-plane.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/unlabeled/control-plane.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/unlabeled/etcd.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/unlabeled/etcd.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/infrastructure_components/unlabeled/node.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/infrastructure_components/unlabeled/node.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/c-role.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/c-role.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/cm.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/cm.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/crb.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/crb.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/crd.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/crd.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/cronjob.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/cronjob.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/deploy.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/deploy.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/ds.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/ds.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/ep.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/ep.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/group.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/group.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/hpa.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/hpa.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/ing.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/ing.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/job.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/job.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/limits.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/limits.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/netpol.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/netpol.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/ns.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/ns.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/pod.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/pod.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/psp.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/psp.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/pv.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/pv.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/pvc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/pvc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/quota.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/quota.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/rb.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/rb.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/role.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/role.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/rs.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/rs.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/sa.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/sa.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/sc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/sc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/secret.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/secret.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/sts.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/sts.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/svc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/svc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/user.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/user.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/labeled/vol.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/labeled/vol.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/c-role.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/c-role.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/cm.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/cm.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/crb.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/crb.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/crd.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/crd.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/cronjob.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/cronjob.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/deploy.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/deploy.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/ds.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/ds.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/ep.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/ep.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/group.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/group.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/hpa.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/hpa.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/ing.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/ing.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/job.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/job.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/limits.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/limits.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/netpol.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/netpol.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/ns.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/ns.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/pod.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/pod.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/psp.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/psp.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/pv.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/pv.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/pvc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/pvc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/quota.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/quota.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/rb.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/rb.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/role.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/role.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/rs.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/rs.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/sa.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/sa.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/sc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/sc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/secret.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/secret.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/sts.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/sts.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/svc.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/svc.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/user.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/user.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/resource-icons/resources/unlabeled/vol.svg",
+    "source": "https://raw.githubusercontent.com/kubernetes/community/main/icons/svg/resources/unlabeled/vol.svg",
+    "owner": "Kubernetes community",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/kubernetes.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/helm.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/containerd.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/containerd/icon/color/containerd-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/cilium.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/cilium/icon/color/cilium_icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/prometheus.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/opentelemetry.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/jaeger.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/jaeger/icon/color/jaeger-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/fluentd.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/fluentd/icon/color/fluentd-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/argo.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/flux.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/flux/icon/color/flux-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/istio.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/istio/icon/color/istio-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/linkerd.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/linkerd/icon/color/linkerd-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/envoy.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/envoy/icon/color/envoy-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/cert-manager.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/cert-manager/icon/color/cert-manager-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/kyverno.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/falco.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/falco/icon/color/falco-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/crossplane.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/crossplane/icon/color/crossplane-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/backstage.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/backstage/icon/color/backstage-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/velero.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/velero/icon/color/velero-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/keda.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/keda/icon/color/keda-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/opencost.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/opencost/icon/color/Opencost_Icon_Color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/rook.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/rook/icon/color/rook-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/longhorn.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/longhorn/icon/color/longhorn-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/harbor.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/harbor/icon/color/harbor-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/tekton.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/tekton/icon/color/tekton-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/vitess.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/vitess/icon/color/vitess-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/knative.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/knative/icon/color/knative-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/volcano.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/volcano/icon/color/volcano-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/kubeflow.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/kubeflow/icon/color/kubeflow-icon.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/kubevirt.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/kubevirt/icon/color/kubevirt-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  },
+  {
+    "path": "assets/logos/clusternet.svg",
+    "source": "https://raw.githubusercontent.com/cncf/artwork/main/projects/clusternet/icon/color/clusternet-icon-color.svg",
+    "owner": "CNCF artwork",
+    "status": "downloaded"
+  }
+]
