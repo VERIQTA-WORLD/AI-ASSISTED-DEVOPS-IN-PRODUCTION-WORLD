@@ -110,3 +110,4 @@ yarn-error.log*
 # and evidence for sensitive information before committing.
 # Gitignore rules do not remove files already tracked by Git.
 .DS_Store
+.DS_Store

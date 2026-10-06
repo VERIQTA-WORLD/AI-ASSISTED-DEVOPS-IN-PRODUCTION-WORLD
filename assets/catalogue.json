@@ -1,149 +1,107 @@
 [
   {
-    "number": 1,
     "title": "AI for DevOps Beginners",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/01-ai-for-devops-beginners"
+    "path": "engineering-topics/01-ai-for-devops-beginners"
   },
   {
-    "number": 2,
     "title": "ChatGPT for DevOps Engineers",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/02-chatgpt-for-devops-engineers"
+    "path": "engineering-topics/02-chatgpt-for-devops-engineers"
   },
   {
-    "number": 3,
     "title": "AI-Assisted Linux Administration",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/03-ai-assisted-linux-administration"
+    "path": "engineering-topics/03-ai-assisted-linux-administration"
   },
   {
-    "number": 4,
     "title": "AI-Assisted Shell Scripting for DevOps",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/04-ai-assisted-shell-scripting-for-devops"
+    "path": "engineering-topics/04-ai-assisted-shell-scripting-for-devops"
   },
   {
-    "number": 5,
     "title": "AI-Assisted Python for DevOps",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/05-ai-assisted-python-for-devops"
+    "path": "engineering-topics/05-ai-assisted-python-for-devops"
   },
   {
-    "number": 6,
     "title": "AI for Kubernetes Troubleshooting",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/06-ai-for-kubernetes-troubleshooting"
+    "path": "engineering-topics/06-ai-for-kubernetes-troubleshooting"
   },
   {
-    "number": 7,
     "title": "AI for CI/CD Pipelines",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/07-ai-for-ci-cd-pipelines"
+    "path": "engineering-topics/07-ai-for-ci-cd-pipelines"
   },
   {
-    "number": 8,
     "title": "AI for Infrastructure as Code",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/08-ai-for-infrastructure-as-code"
+    "path": "engineering-topics/08-ai-for-infrastructure-as-code"
   },
   {
-    "number": 9,
     "title": "AI-Assisted Terraform",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/09-ai-assisted-terraform"
+    "path": "engineering-topics/09-ai-assisted-terraform"
   },
   {
-    "number": 10,
     "title": "AI for Production Troubleshooting",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/10-ai-for-production-troubleshooting"
+    "path": "engineering-topics/10-ai-for-production-troubleshooting"
   },
   {
-    "number": 11,
     "title": "AI for Log Analysis",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/11-ai-for-log-analysis"
+    "path": "engineering-topics/11-ai-for-log-analysis"
   },
   {
-    "number": 12,
     "title": "AI for Monitoring and Observability",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/12-ai-for-monitoring-and-observability"
+    "path": "engineering-topics/12-ai-for-monitoring-and-observability"
   },
   {
-    "number": 13,
     "title": "AI for Incident Response",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/13-ai-for-incident-response"
+    "path": "engineering-topics/13-ai-for-incident-response"
   },
   {
-    "number": 14,
     "title": "AI for Cloud Operations",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/14-ai-for-cloud-operations"
+    "path": "engineering-topics/14-ai-for-cloud-operations"
   },
   {
-    "number": 15,
     "title": "AI for DevOps Security",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/15-ai-for-devops-security"
+    "path": "engineering-topics/15-ai-for-devops-security"
   },
   {
-    "number": 16,
     "title": "AI for GitHub Actions",
     "classification": "Junior",
-    "pages": 20,
-    "path": "handbooks/16-ai-for-github-actions"
+    "path": "engineering-topics/16-ai-for-github-actions"
   },
   {
-    "number": 17,
     "title": "AI for DevOps Automation",
     "classification": "Mid-Level",
-    "pages": 20,
-    "path": "handbooks/17-ai-for-devops-automation"
+    "path": "engineering-topics/17-ai-for-devops-automation"
   },
   {
-    "number": 18,
     "title": "AI for SRE",
     "classification": "Senior",
-    "pages": 20,
-    "path": "handbooks/18-ai-for-sre"
+    "path": "engineering-topics/18-ai-for-sre"
   },
   {
-    "number": 19,
     "title": "AI for Platform Engineering",
     "classification": "Senior",
-    "pages": 20,
-    "path": "handbooks/19-ai-for-platform-engineering"
+    "path": "engineering-topics/19-ai-for-platform-engineering"
   },
   {
-    "number": 20,
     "title": "AI-Powered Production Engineering",
     "classification": "Senior",
-    "pages": 20,
-    "path": "handbooks/20-ai-powered-production-engineering"
+    "path": "engineering-topics/20-ai-powered-production-engineering"
   },
   {
-    "number": 21,
     "title": "AI Won't Replace DevOps Engineers, But Here's How Engineers Are Using It",
     "classification": "Junior to Senior",
-    "pages": 40,
-    "path": "handbooks/21-ai-won-t-replace-devops-engineers-but-here-s-how-engineers-are-using-it"
+    "path": "engineering-topics/21-ai-won-t-replace-devops-engineers-but-here-s-how-engineers-are-using-it"
   }
 ]

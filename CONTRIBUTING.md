@@ -2,7 +2,7 @@
 
 Contribute clear explanations, operational scenarios, prompt improvements and reproducible validation methods.
 
-1. Select the handbook or resource that matches the topic.
+1. Select the resource guide or resource that matches the topic.
 2. Explain the environment, assumptions and learning goal.
 3. Include evidence, validation steps and expected outcomes for technical changes.
 4. Include failure handling and cleanup for labs.
