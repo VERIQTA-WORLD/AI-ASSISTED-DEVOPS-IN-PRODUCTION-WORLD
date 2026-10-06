@@ -109,3 +109,4 @@ yarn-error.log*
 # Review logs, AI responses, notebooks, plans, screenshots,
 # and evidence for sensitive information before committing.
 # Gitignore rules do not remove files already tracked by Git.
+.DS_Store
